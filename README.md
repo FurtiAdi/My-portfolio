@@ -1,22 +1,15 @@
-# My Portfolio
-
-Welcome to my portfolio! This is where I showcase my projects, skills, and work experience.
+# Software developer
+### Technical Skills: Java, Python, HTML, CSS, Javascript, Flutter
+## Education
+B.S., Computer science | Stockholm University in Sweden (May 2025)
 
 ## About
-A brief description of what the portfolio contains and its purpose.
+Welcome to my portfolio! This collection showcases my skills and experience in UX/UI design, web development, and mobile app development. It includes examples of my projects, design processes, and code samples aimed at demonstrating my creativity and problem-solving abilities. Whether you’re a potential employer, client, or collaborator, I hope this portfolio provides a clear view of my work and capabilities. Please feel free to explore and reach out with any questions or opportunities.
 
-## Features
+## Projects
 - Project 1: [Description]
 - Project 2: [Description]
 - Project 3: [Description]
-
-## Tech Stack
-- HTML
-- CSS
-- JavaScript
-- Flutter / React Native (depending on which you choose)
-- Java
-- Python
 
 ## Contact
 - Email: furtiadi@gmail.com
