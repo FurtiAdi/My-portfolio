@@ -8,8 +8,7 @@ Welcome to my portfolio! This collection showcases my skills and experience in U
 
 ## Projects
 - Project 1:  (https://furtiadi.github.io/Tutorbridge-webapp/)
-- Project 2: [Description]
-- Project 3: [Description]
+- Project 2: (https://github.com/FurtiAdi/DailyPro-App)
 
 ## Contact
 - Email: furtiadi@gmail.com
