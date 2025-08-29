@@ -1,5 +1,5 @@
 # Software developer
-### Technical Skills: Java, Python, HTML, CSS, Javascript, Flutter
+### Technical Skills: Java, Python, HTML, CSS, Javascript, PHP, Flutter
 ## Education
 B.S., Computer science | Stockholm University in Sweden (May 2025)
 
