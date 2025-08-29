@@ -1,7 +1,7 @@
 # Software developer
 ### Technical Skills: Java, Python, HTML, CSS, Javascript, PHP, Flutter
 ## Education
-B.S., Computer science | Stockholm University in Sweden (May 2025)
+B.S., Computer science | Stockholm University in Sweden (August 2022 - June 2025)
 
 ## About
 Welcome to my portfolio! This collection showcases my skills and experience in UX/UI design, web development, and mobile app development. It includes examples of my projects, design processes, and code samples aimed at demonstrating my creativity and problem-solving abilities. Whether you’re a potential employer, client, or collaborator, I hope this portfolio provides a clear view of my work and capabilities. Please feel free to explore and reach out with any questions or opportunities.
